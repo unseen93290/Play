@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950076217285",
+    "project_id": "play-c2582",
+    "storage_bucket": "play-c2582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950076217285:android:a9b672322fac4c8abcddac",
+        "android_client_info": {
+          "package_name": "play.unseen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950076217285-itkq4gjgdj5edtp91aca05il88r1tmrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpGVJwPiwj9uMpdCHbJjFX6Hy2ZYL1pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950076217285-itkq4gjgdj5edtp91aca05il88r1tmrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
