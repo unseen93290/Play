@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:play/Page/Authentification.dart';
-import 'Page/ChoixPages.dart';
+import '../../../../StudioProjects/play_mac/lib/Pages/ChoixPages.dart';
 
 import 'package:splashscreen/splashscreen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
